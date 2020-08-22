@@ -35,7 +35,7 @@ void insertion(int a[],int n)
 }
 
 
-// insertion sort
+// selection sort
 int selection(int a[],int index,int n)
 {
     int min=a[index] ,loc=index,i;
