@@ -34,6 +34,7 @@ int main()
     }
     printf(Enter number of left shifts);
     scanf(%d,&k);
+    k=k%n;
     rotate(a,n,k);
     printa(a,n);
     return 0;
