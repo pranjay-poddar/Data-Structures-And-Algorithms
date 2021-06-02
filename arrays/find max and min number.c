@@ -1,10 +1,10 @@
 #include <stdio.h>
-struct pair{
+struct p{
     int max;
     int min;
 };
-struct pair compare(int a[],int n){
-    struct pair comp;
+struct p compare(int a[],int n){
+    struct p comp;
     if(n == 1){
         comp.max=a[0];
         comp.min=a[0];
@@ -32,7 +32,7 @@ struct pair compare(int a[],int n){
 }
 int main() {
 	int i,j,n;
-	struct pair c;
+	struct p c;
 	scanf("%d",&n);
 	int a[n];
 	for(i = 0;i < n;i++){
