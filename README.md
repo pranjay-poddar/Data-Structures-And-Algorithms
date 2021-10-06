@@ -660,11 +660,6 @@ Happy Coding!
 
   
 
-  ## Contributors
-  
-<a href="https://github.com/pranjay-poddar/Data-Structures-And-Algorithms/graphs/contributors">
-  <img src="https://github.com/pranjay-poddar/Data-Structures-And-Algorithms" />
-</a>
 
   <br><br>
  <p align="center">< /> with &hearts; By Pranjay Poddar&copy;</p>
