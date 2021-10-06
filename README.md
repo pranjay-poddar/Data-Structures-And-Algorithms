@@ -3,7 +3,6 @@
 Important data structure and algorithms codes and concepts repository. 
 <br><br>
 
-  ![forthebadge](https://forthebadge.com/images/badges/made-with-c.svg)
   ![forthebadge](https://forthebadge.com/images/badges/uses-brains.svg)
   ![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)
   
