@@ -647,6 +647,7 @@ Happy Coding!
 	```git clone https://github.com/pranjay-poddar/Data-Structures-And-Algorithms.git  <folder-name>```
 
 * Add your code and your **Github Handle to CONTRIBUTERS.md**.
+* Update Readme with a tick infront of a question added in particular language column. 
 
 * Commit and push your code to the remote repo on your Github.<br/>
 ` git checkout -b <branch name>`<br/>
