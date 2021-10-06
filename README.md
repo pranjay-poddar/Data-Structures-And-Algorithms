@@ -7,6 +7,10 @@ Important data structure and algorithms codes and concepts repository.
   ![forthebadge](https://forthebadge.com/images/badges/uses-brains.svg)
   ![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)
   
+  <p align="center">
+    <a href="https://github.com/pranjay-poddar"><img src="https://github.com/pranjay-poddar/Data-Structures-And-Algorithms/blob/master/hacktoberfest'21.png" />
+    </a>
+  
   # Competitive Programming
 :pushpin: :books: Solution of competitive programming problems and challenges, Project Euler Solutions, Data Structures, Data Structure implementations, Algorithms and Interview Questions.
 
