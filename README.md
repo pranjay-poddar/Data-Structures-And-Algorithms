@@ -15,7 +15,7 @@ Beginner Friendly Hacktoberfest2021 repository. You can contribute anything from
 Happy Coding!
 
 ## How to contribute:
-* Drop a :star: on the Github repository<br/>
+* Drop a :star: on the Github repository<optional><br/>
 
 * Fork the repo to your Github.<br/>
 
