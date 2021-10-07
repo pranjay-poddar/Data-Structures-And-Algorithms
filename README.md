@@ -1,14 +1,18 @@
-<h1>Data-Structures-And-Algorithms</h1>
-<br>
-Important data structure and algorithms codes and concepts repository. 
-<br><br>
+# ✨ Data Structures And Algorithms ✨
+**Important** data structure and algorithms codes and concepts repository.
 
   ![forthebadge](https://forthebadge.com/images/badges/uses-brains.svg)
   ![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)
   
-  <p align="center">
-    <a href="https://github.com/pranjay-poddar"><img src="https://github.com/pranjay-poddar/Data-Structures-And-Algorithms/blob/master/hacktoberfest'21.png" />
+<p align="center">
+    <a href="https://hacktoberfest.digitalocean.com">
+        <img src="https://github.com/pranjay-poddar/Data-Structures-And-Algorithms/blob/master/hacktoberfest'21.png" />
     </a>
+</p>
+
+## What is Hacktoberfest ? 
+Hacktoberfest, in its 8th year, is a month-long celebration of open source software run by DigitalOcean. During the month of October, 
+we invite you to join open-source software enthusiasts, beginners, and the developer community by contributing to open-source projects.
 
 ## Hacktoberfest-Guideline
 Beginner Friendly Hacktoberfest2021 repository. You can contribute anything from algorithm codes important DS questions with there solutions.</br> 
@@ -665,8 +669,6 @@ Contains some **Project Euler** programs.
   <img src="https://contributors-img.web.app/image?repo=pranjay-poddar/Data-Structures-And-Algorithms&max=300" />
 </a>
 
-
-
-  <br><br>
- <p align="center">< /> with &hearts; By Pranjay Poddar &copy;</p>
+<br><br>
+<p align="center">< /> with &hearts; By Pranjay Poddar &copy;</p>
 
