@@ -1,3 +1,4 @@
+//C code for Banker's Algorithm
 #define n 4     // Number of processes
 #define m 2     // Number of resources
 
