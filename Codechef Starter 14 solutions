@@ -1,0 +1,97 @@
+//Problem Link 
+https://www.codechef.com/START14C/problems/FIXFIX/
+
+// solution 
+#include <iostream>
+using namespace std;
+
+int main() {
+     int test;
+     cin>>test;
+     while(test--){
+          long long int n,k;
+          cin>>n>>k;
+          if(n-k==1){
+               cout<<"-1"<<endl;
+               continue;
+          }
+          int poss=(n-k)%2;
+          long long int perm[n];
+          long long int i=0;
+               for(i=0;i<n;i++){
+                    perm[i]=i+1;
+               }
+          if(poss==0){
+               int j=0;
+               for(i=0;i<(n-k)/2;i++){
+                    int temp=perm[j];
+                    perm[j]=perm[n-j-1];
+                    perm[n-j-1]=temp;
+                    j++;
+               }
+               for(i=0;i<n;i++){
+                    cout<<perm[i]<<" ";
+               }
+               cout<<endl;
+          }
+          else {
+               int j=0;
+               for(i=0;i<(n-k-1);i++){
+                    int temp=perm[j];
+                    perm[j]=perm[j+1];
+                    perm[j+1]=temp;
+                    j++;
+               }
+               for(i=0;i<n;i++){
+                    cout<<perm[i]<<" ";
+               }
+               cout<<endl;
+          }
+     }
+	// your code goes here
+	return 0;
+}
+//problem 2
+
+
+https://www.codechef.com/START14C/problems/BININVER/
+
+
+#include<iostream>
+using namespace std;
+int operations(int n){
+    int op=0;
+    while(n%2==0){
+        n/=2;
+        op++;
+    }
+    return op;
+}
+int main(){
+    int test;
+    cin>>test;
+    while(test--){
+        int n;
+        cin>>n;
+        int arr[n];
+        for(int i=0;i<n;i++){
+            cin>>arr[i];
+        }
+        int odd=0;
+        for(int i=0;i<n;i++){
+            if(arr[i]%2!=0){
+                odd++;
+            }
+        }
+        if(odd>=1){
+            cout<<"0"<<endl;
+        }
+        else {
+            int min_op=INT32_MAX;
+            for(int i=0;i<n;i++){
+                min_op=min(min_op,operations(arr[i]));
+            }
+            cout<<min_op<<endl; }
+    }
+    return 0;
+}
