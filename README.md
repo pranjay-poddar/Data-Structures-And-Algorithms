@@ -468,7 +468,7 @@ Contains implementation of some popular **Data Structures** and related problems
 
         |   Topic/Question  |   C |   C++ |   Java    |   Python  |
         |---------|:---------:|:---------:|:---------:|:---------:|
-        |   Facitoo and Bridge   |  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [x] </li></ul>  |
+        |   Facitoo and Bridge   |  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [] </li></ul>  |
         ------------------------------------------------------------------------------
 
     + **Strings**
@@ -560,7 +560,7 @@ Contains implementation of some popular **Data Structures** and related problems
 
     |   Topic/Question  |   C |   C++ |   Java    |   Python  |
     |---------|:---------:|:---------:|:---------:|:---------:|
-    |   Stack Implementation   |  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+    |   Stack Implementation   |  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [x] </li></ul>  |
     ------------------------------------------------------------------------------
 ------------------------------------------------------------------------------
 
