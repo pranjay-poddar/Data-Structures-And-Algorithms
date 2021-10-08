@@ -1,0 +1,97 @@
+Codeforces problems :
+
+Problem 1:
+Link - https://codeforces.com/problemset/problem/1166/F
+
+Problem statement -
+In a magical land there are n cities conveniently numbered 1,2,…,n. Some pairs of these cities are connected by magical colored roads. Magic is unstable, so at any time, new roads may appear between two cities.
+Vicky the witch has been tasked with performing deliveries between some pairs of cities. However, Vicky is a beginner, so she can only complete a delivery if she can move from her starting city to her destination city through a double rainbow. A double rainbow is a sequence of cities c1,c2,…,ck satisfying the following properties:
+For each i with 1≤i≤k−1, the cities ci and ci+1 are connected by a road.
+For each i with 1≤i≤k−12, the roads connecting c2i with c2i−1 and c2i+1 have the same color.
+For example if k=5, the road between c1 and c2 must be the same color as the road between c2 and c3, and the road between c3 and c4 must be the same color as the road between c4 and c5.
+Vicky has a list of events in chronological order, where each event is either a delivery she must perform, or appearance of a new road. Help her determine which of her deliveries she will be able to complete.
+
+Input - 
+The first line contains four integers n, m, c, and q (2≤n≤105, 1≤m,c,q≤105), denoting respectively the number of cities, the number of roads initially present, the number of different colors the roads can take, and the number of events.
+Each of the following m lines contains three integers x, y, and z (1≤x,y≤n, 1≤z≤c), describing that there initially exists a bidirectional road with color z between cities x and y.
+Then q lines follow, describing the events. Each event is one of the following two types:
+1.+ x y z (1≤x,y≤n, 1≤z≤c), meaning a road with color z appears between cities x and y;
+2.? x y (1≤x,y≤n), meaning you should determine whether Vicky can make a delivery starting at city x and ending at city y. It is guaranteed that x≠y.
+It is guaranteed that at any moment, there is at most one road connecting any pair of cities, and that no road connects a city to itself. It is guaranteed that the input contains at least one event of the second type.
+
+Output - 
+For each event of the second type, print a single line containing "Yes" (without quotes) if the delivery can be made, or a single line containing "No" (without quotes) otherwise.
+
+
+Solution - 
+#include<bits/stdc++.h>
+#define ll long long
+#define ull unsigned long long
+#define pa pair<int,int>
+using namespace std;
+const int maxn=1e5+10;
+const int maxm=5e6+10;
+const ll mod=1e9+7;
+MAP <int, int> ma [MAXN]; / / For node a, only one need to save each color
+set<int>se[maxn];
+int n,m,c,q,boss[maxn];
+void inti()
+{
+    for(int i=1;i<=n;i++)
+        boss[i]=i;
+}
+int fin(int x)
+{
+    if(boss[x]==x)return x;
+    return boss[x]=fin(boss[x]);
+}
+void uni(int a,int b)
+{
+    int v1=fin(a),v2=fin(b);
+    if(v1==v2)return;
+         IF (SE [V1] .size ()> SE [V2] .size ()) SWAP (V1, V2); // Heurned Merger
+    boss[v1]=v2;
+    for(auto i :se[v1])se[v2].insert(i);
+    se[v1].clear();
+}
+void add_edge()
+{
+    int a,b,v;
+    scanf("%d %d %d",&a,&b,&v);
+    if(ma[a].count(v))
+        uni(ma[a][v],b);
+    else
+        ma[a][v]=b;
+    if(ma[b].count(v))
+        uni(ma[b][v],a);
+    else
+        ma[b][v]=a;
+    se[fin(a)].insert(b);
+    se[fin(b)].insert(a);
+}
+int main()
+{
+    scanf("%d %d %d %d",&n,&m,&c,&q);
+    inti();
+    for(int i=1; i<=m; i++)
+        add_edge();
+    while(q--)
+    {
+        getchar();
+        if(getchar()=='?')
+        {
+            int fla=0,a,b;
+            scanf("%d %d",&a,&b);
+            int v=fin(a);
+                         IF (v == fin (b) || SE [V] .find (b)! = se [v ]nd ()) // The same collection, or different collections, but take a while
+                 printf("Yes\n");
+            else
+                 printf("No\n");
+        }
+        else
+        {
+            add_edge();
+        }
+    }
+    return 0;
+}
