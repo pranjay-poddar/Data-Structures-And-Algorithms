@@ -12,6 +12,31 @@ Important data structure and algorithms codes and concepts repository.
   <p align="center">
     <a href="https://github.com/pranjay-poddar"><img src="https://github.com/pranjay-poddar/Data-Structures-And-Algorithms/blob/master/hacktoberfest'21.png" />
     </a>
+	</p>
+	<table align="center">
+    <thead align="center">
+        <tr border: 1px;>
+            <td><b>Project Stats</td>
+            <td><b>🌟 Stars</b></td>
+            <td><b>🍴 Forks</b></td>
+            <td><b>🐛 Issues</b></td>
+            <td><b>🔔 Open PRs</b></td>
+            <td><b>🔕 Close PRs</b></td>
+        </tr>
+     </thead>
+    <tbody>
+         <tr>
+            <td><a href="https://github.com/pranjay-poddar/Data-Structures-And-Algorithms"</a>Project</td>
+            <td><img alt="Stars" src="https://img.shields.io/github/stars/pranjay-poddar/Data-Structures-And-Algorithms?style=flat&logo=github"/></td>
+            <td><img alt="Forks" src="https://img.shields.io/github/forks/pranjay-poddar/Data-Structures-And-Algorithms?style=flat&logo=github"/></td>
+            <td><img alt="Issues" src="https://img.shields.io/github/issues/pranjay-poddar/Data-Structures-And-Algorithms?style=flat&logo=github"/></td>
+            <td><img alt="Open Pull Requests" src="https://img.shields.io/github/issues-pr/pranjay-poddar/Data-Structures-And-Algorithms?style=flat&logo=github"/></td>
+            <td><img alt="Close Pull Requests" src="https://img.shields.io/github/issues-pr-closed/pranjay-poddar/Data-Structures-And-Algorithms?style=flat&color=critical&logo=github"/></td>
+        </tr>
+    </tbody>        
+</table>
+	
+	
 
 ## Hacktoberfest-Guideline
 Beginner Friendly Hacktoberfest2021 repository. You can contribute anything from algorithm codes important DS questions with there solutions.</br> 
