@@ -706,7 +706,6 @@ Contains some **Project Euler** programs.
 </a>
 
 <!-- &max={number} -->
-
   <br><br>
  <p align="center">< /> with &hearts; By Pranjay Poddar &copy;</p>
 
