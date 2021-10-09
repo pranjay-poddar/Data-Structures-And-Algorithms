@@ -1,0 +1,52 @@
+//PROBLEM STATEMENT 
+//You are given a string s, consisting of n letters, each letter is either 'a' or 'b'. The letters in the string are numbered from 1 to n.
+
+//s[l;r] is a continuous substring of letters from index l to r of the string inclusive.
+
+//A string is called balanced if the number of letters 'a' in it is equal to the number of letters 'b'. For example, strings "baba" and "aabbab" are balanced and strings "aaab" and "b" are not.
+
+//Find any non-empty balanced substring s[l;r] of string s. Print its l and r (1≤l≤r≤n). If there is no such substring, then print −1 −1.
+
+#include<iostream>
+#include<bits/stdc++.h>
+using namespace std;
+int main(){
+    int test; //number of test cases 
+    cin>>test;
+    while(test--){
+        int n;
+        cin>>n; // length of string 
+        string str;
+        cin>>str; // input the string  
+        int i;
+        int l=0;
+        int r=0;
+        int j=0;
+        while(j<n){
+            int aCount=0;
+            int bCount=0;
+        for(i=j;i<str.length();i++){
+            if(str[i]=='a'){
+                aCount++;
+            }
+            else {
+                bCount++;
+            }
+            if((aCount==bCount) and ((aCount!=0)||(bCount!=0))){
+                l=j;
+                r=i;
+                break;
+            }
+        }
+        j++;
+        }
+        if(r!=0){
+            cout<<l+1<<" "<<r+1<<endl;
+        }
+        else {
+            cout<<"-1 -1"<<endl;
+        }
+        
+    }
+    return 0;
+}
