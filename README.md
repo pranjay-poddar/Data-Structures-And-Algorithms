@@ -676,15 +676,11 @@ Contains some **Project Euler** programs.
 
 ## Contributors
 
-
 <a href="https://github.com/pranjay-poddar/Data-Structures-And-Algorithms/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=pranjay-poddar/Data-Structures-And-Algorithms&&max=100" />
+  <img src="https://contrib.rocks/image?repo=pranjay-poddar/Data-Structures-And-Algorithms&&max=200" />
 </a>
 
 <!-- &max={number} -->
-
-
-
 
   <br><br>
  <p align="center">< /> with &hearts; By Pranjay Poddar &copy;</p>
