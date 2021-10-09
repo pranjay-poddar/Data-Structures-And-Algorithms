@@ -328,6 +328,14 @@ Contains some Questions from Online **Competitions and Challenges**.
     |   Frogs and Jumps   |  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [x] </li></ul>  |
     ------------------------------------------------------------------------------
 
+    **Interview Series Samsung**
+
+    |   Topic/Question  |   C |   C++ |   Java    |   Python  |
+    |---------|:---------:|:---------:|:---------:|:---------:|
+    |   Add Minimum Characters   |  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [x] </li></ul>  |
+    |   Transform to Sum Tree   |  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [x] </li></ul>  |
+    ------------------------------------------------------------------------------
+
 + **Google Code Jam**
 
     |   Topic/Question  |   C |   C++ |   Java    |   Python  |
