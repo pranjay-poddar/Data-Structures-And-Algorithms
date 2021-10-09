@@ -12,7 +12,7 @@ Important data structure and algorithms codes and concepts repository.
   <p align="center">
     <a href="https://github.com/pranjay-poddar"><img src="https://github.com/pranjay-poddar/Data-Structures-And-Algorithms/blob/master/hacktoberfest'21.png" />
     </a>
-	
+	</p>
 	<table align="center">
     <thead align="center">
         <tr border: 1px;>
@@ -35,6 +35,8 @@ Important data structure and algorithms codes and concepts repository.
         </tr>
     </tbody>        
 </table>
+	
+	
 
 ## Hacktoberfest-Guideline
 Beginner Friendly Hacktoberfest2021 repository. You can contribute anything from algorithm codes important DS questions with there solutions.</br> 
