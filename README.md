@@ -293,6 +293,16 @@ Contains some Questions from Online **Competitions and Challenges**.
     |   Reversing Series Pattern   |  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
     ------------------------------------------------------------------------------
 
++ **GeeksForGeeks**
+
+    **Interview Series Paypal**
+
+    |   Topic/Question  |   C |   C++ |   Java    |   Python  |
+    |---------|:---------:|:---------:|:---------:|:---------:|
+    |   Hit Most Balloons   |  <ul><li> [ ] </li></ul>  |   <ul><li> [x] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+    |   Frogs and Jumps   |  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [x] </li></ul>  |
+    ------------------------------------------------------------------------------
+
 + **Google Code Jam**
 
     |   Topic/Question  |   C |   C++ |   Java    |   Python  |
