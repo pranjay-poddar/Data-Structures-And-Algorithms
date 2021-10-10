@@ -1,3 +1,4 @@
+//link(https://leetcode.com/problems/map-sum-pairs/) 
 class MapSum {
 public:
     /** Initialize your data structure here. */
