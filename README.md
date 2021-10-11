@@ -723,7 +723,7 @@ Contains some **Project Euler** programs.
 
 <!-- &max={number} -->
   <br><br>
- <p align="center">< /> with &hearts; By [Pranjay Poddar](https://github.com/pranjay-poddar) &copy;</p>
+ <p align="center">< /> with &hearts; By<a href="https://github.com/pranjay-poddar"> Pranjay Poddar </a>&copy;</p>
 <h3 align="center">Connect Project Admin </h3>
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/pranjay-poddar/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
