@@ -248,7 +248,7 @@ Contains some popular **Algorithms** and related problems.
     |   Merge Sort   |  <ul><li> [x] </li></ul>  |   <ul><li> [x] </li></ul> |  <ul><li> [x] </li></ul>  |  <ul><li> [x] </li></ul>  |
     |   Quick Sort   |  <ul><li> [ ] </li></ul>  |   <ul><li> [x] </li></ul> |  <ul><li> [x] </li></ul>  |  <ul><li> [x] </li></ul>  |
     |   Selection Sort   |  <ul><li> [x] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [x] </li></ul>  |  <ul><li> [x] </li></ul>  |
-    |   Bucket Sort   |  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [x] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+    |   Bucket Sort   |  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [x] </li></ul>  |  <ul><li> [x] </li></ul>  |
     ------------------------------------------------------------------------------
 
 + **Strings**
