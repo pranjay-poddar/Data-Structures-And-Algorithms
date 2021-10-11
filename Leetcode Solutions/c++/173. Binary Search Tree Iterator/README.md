@@ -11,3 +11,5 @@ Step 3: Now 9 is poped and 9 does contain any right child so we move on 15. If h
 Step 4: Now 15 is poped and checked if it has the right child yes it has i.e. 20 so 20 is pushed inside the stack.
 
 Step 5: Lastly 20 is poped and returned and after that is hasnext() is called it will return false as there are no more elements or children inside the stack.
+
+![57090108-e111-4449-b518-a3f2951be06a_1630145672 8967223](https://user-images.githubusercontent.com/66811279/136814574-205037a4-b7f0-4195-96d6-e68409f01a29.png)
