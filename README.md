@@ -723,5 +723,11 @@ Contains some **Project Euler** programs.
 
 <!-- &max={number} -->
   <br><br>
- <p align="center">< /> with &hearts; By Pranjay Poddar &copy;</p>
-
+ <p align="center">< /> with &hearts; By [Pranjay Poddar](https://github.com/pranjay-poddar) &copy;</p>
+<h3 align="center">Connect Project Admin </h3>
+<p align="center">
+  <a target="_blank"href="https://www.linkedin.com/in/pranjay-poddar/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://twitter.com/PranjayPoddar"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:pranjaypoddar@gmail.com?subject=Hello,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/pranjay_poddar/"><img src="https://img.shields.io/badge/instagram-%23D14836.svg?&style=for-the-badge&logo=instagram&logoColor=pink" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
