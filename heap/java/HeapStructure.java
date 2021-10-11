@@ -26,8 +26,8 @@ public class HeapStructure {
         /**
          * To Run Max Heap.
          * 
-         * To run Min Heap uncomment below. Change ComparatorMaxHeap() by
-         * ComparatorMinHeap() the in line 21.
+         * To run Min Heap: change ComparatorMaxHeap() by
+         * ComparatorMinHeap() the in line 33.
          *
          */
         Heap<Integer> heap = new Heap<Integer>(data, 8, new ComparatorMaxHeap());
