@@ -714,6 +714,8 @@ Contains some **Project Euler** programs.
 ------------------------------------------------------------------------------
 
 <br><br>
+![DSA-&-Algorithms](https://github.com/pranjay-poddar/Data-Structures-And-Algorithms/image?forks=1&issues=1&language=1&owner=1&pattern=Brick%20Wall&pulls=1&stargazers=1&theme=Dark)
+<br><br>
 
 ## Contributors
 
