@@ -570,7 +570,7 @@ Contains implementation of some popular **Data Structures** and related problems
         |---------|:---------:|:---------:|:---------:|:---------:|
         |   InOrder Traversal   |  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
         |   Level Order Traversal   |  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
-        |   Post Order Traversal   |  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+        |   Post Order Traversal   |  <ul><li> [] </li></ul>  |   <ul><li> [X] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
         |   Pre Order Traversal   |  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
         ------------------------------------------------------------------------------
 
