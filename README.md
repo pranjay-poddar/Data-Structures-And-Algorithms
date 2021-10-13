@@ -191,7 +191,7 @@ Contains some popular **Algorithms** and related problems.
     |   Alpha Code   |  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
     |   Boredom   |  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
     |   Catalan Number   |  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
-    |   Coin Change   |  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+    |   Coin Change   |  <ul><li> [ ] </li></ul>  |   <ul><li> [x] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
     |   Construct the Array   |  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
     |   Count BSTs   |  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
     |   Edit Distance   |  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
@@ -242,7 +242,7 @@ Contains some popular **Algorithms** and related problems.
     |   Topic/Question  |   C |   C++ |   Java    |   Python  |
     |---------|:---------:|:---------:|:---------:|:---------:|
     |   Bubble Sort   |  <ul><li> [x] </li></ul>  |   <ul><li> [x] </li></ul> |  <ul><li> [x] </li></ul>  |  <ul><li> [x] </li></ul>  |
-    |   Counting Sort   |  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [x] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+    |   Counting Sort   |  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [x] </li></ul>  |  <ul><li> [x] </li></ul>  |
     |   Heap Sort   |  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [x] </li></ul>  |
     |   Insertion Sort   |  <ul><li> [x] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [x] </li></ul>  |  <ul><li> [x] </li></ul>  |
     |   Merge Sort   |  <ul><li> [x] </li></ul>  |   <ul><li> [x] </li></ul> |  <ul><li> [x] </li></ul>  |  <ul><li> [x] </li></ul>  |
