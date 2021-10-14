@@ -13,6 +13,22 @@
 // Output: 2.50000
 // Explanation: merged array = [1,2,3,4] and median is (2 + 3) / 2 = 2.5.
 
+/*Suppose the two arrays are A and B.
+Perform the following variant of binary search first in A then B to find the median.
+
+Start from low = 0, high = |A|, guess i = floor (low + high)/2
+For the median m, there should be total half = floor (|A| + |B| + 1) / 2 elements not greater than it.
+Since there are i + 1 elements not greater than A[i] in A,
+There should be half - (i + 1) elements not greater than A[i] in B.
+Denote j = half - i - 2, thus we can compare if B[j] <= A[i] <= B[j + 1] is satisfied. This indicates
+That the guess is the correct median.
+
+Otherwise, we can easily tell if the guess is too small or too big, then halve the elements to adjust
+the guess.
+
+Fixes #134
+*/
+
  
 
 
