@@ -719,7 +719,7 @@ Contains some **Project Euler** programs.
 ## Contributors
 
 <a href="https://github.com/pranjay-poddar/Data-Structures-And-Algorithms/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=pranjay-poddar/Data-Structures-And-Algorithms&&max=411" />
+  <img src="https://contrib.rocks/image?repo=pranjay-poddar/Data-Structures-And-Algorithms&&max=511" />
 </a>
 
 <!-- &max={number} -->
