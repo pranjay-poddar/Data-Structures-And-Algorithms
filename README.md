@@ -187,7 +187,7 @@ Contains some popular **Algorithms** and related problems.
 
     |   Topic/Question  |   C |   C++ |   Java    |   Python  |
     |---------|:---------:|:---------:|:---------:|:---------:|
-    |   01 Knapsack Problem   |  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [x] </li></ul>  |  <ul><li> [ ] </li></ul>  |
+    |   01 Knapsack Problem   |  <ul><li> [ ] </li></ul>  |   <ul><li> [x] </li></ul> |  <ul><li> [x] </li></ul>  |  <ul><li> [ ] </li></ul>  |
     |   Alpha Code   |  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
     |   Boredom   |  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
     |   Catalan Number   |  <ul><li> [ ] </li></ul>  |   <ul><li> [ ] </li></ul> |  <ul><li> [ ] </li></ul>  |  <ul><li> [ ] </li></ul>  |
