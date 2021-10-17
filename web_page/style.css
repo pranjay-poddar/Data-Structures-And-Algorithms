@@ -131,7 +131,7 @@ body {
 }
 
 #value1:hover {
-    --num: 0;
+    --num: 4;
 }
 
 .pranjay-img {
@@ -151,7 +151,7 @@ body {
 }
 
 #value2:hover {
-    --num: 0;
+    --num: 9;
 }
 
 #value3 {
@@ -167,7 +167,7 @@ body {
 }
 
 #value3:hover {
-    --num: 0;
+    --num: 3;
 }
 
 #value4 {
@@ -183,7 +183,7 @@ body {
 }
 
 #value4:hover {
-    --num: 0;
+    --num: 150;
 }
 
 .contri {
@@ -216,6 +216,9 @@ body {
     }
     .stat {
         margin-top: 10vh;
+    }
+    .contri {
+        width: 100%;
     }
 }
 
@@ -254,7 +257,6 @@ body {
 @media(max-width:370px) {
     .contri {
         height: 40vh;
-        width: 100%;
     }
     .footer h4 {
         font-size: 0.9rem;
