@@ -174,7 +174,7 @@ body {
     transition: --num 1s;
     counter-set: num var(--num);
     font: 800 40px system-ui;
-    --num: 90;
+    --num: 100;
     color: #F74700;
 }
 
