@@ -1,8 +1,27 @@
 * @pranjay-poddar
 <!-- add contributor Github username below -->
 <!-- * @ <GitHub Username> -->
+* @yashms25
+* @damikdhar
+* @Samiya-Nisar
+* @Deadeye001
 * @dhruv-bhatia246
+* @pankaj892
+* @Sitzz23
+* @abhishekchauhan15
+* @rohan26062001
+* @AnandSoni2001
+* @Tg-Tycoon
+* @NishithD
+* @abhishekb13402
+* @Faizan96322
 * @shreyanshp25
+* @rishabhk965
+* @cintamg
+* @MadJokkerr
+* @codewithrohan
+* @vedic-kalra
+* @Saksham188
 * @Jayati15
 * @priyanshd2510
 * @Izuku29
@@ -20,6 +39,8 @@
 * @ajay-makvana
 * @NandiniAgrawal15
 * @Ankitlenka26
+* @ColonelAVP
+* @Suraj052
 * @sudhir512kj
 * @adeshpratapsingh
 * @sumitrajpal29
@@ -37,6 +58,8 @@
 * @Parveen-jangra 
 * @Antara25-10
 * @mohitCodepy
+* @anubhav300
+* @ashushreyansh
 * @ayushanand09
 * @darkdraiden14
 * @Chanchal2125
@@ -48,6 +71,7 @@
 * @YashGosaliya
 * @Nupurgit2000
 * @mansi0703 
+* @Hellsgate96
 * @jytaloramon
 * @sunny7899 
 * @AlexandreInsua 
@@ -70,4 +94,5 @@
 * @Samriddh2703
 * @JayantGoel001
 * @Amruta-26
+* @soumyo2002
 * @nut556
