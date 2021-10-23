@@ -98,8 +98,10 @@ Happy Coding!
 </div>
 
 <!-- &max={number} -->
-  <br><br>
- <p align="center">< /> with &hearts; By<a href="https://github.com/pranjay-poddar"> Pranjay Poddar </a>&copy;</p>
+  <br>
+ <h2 align="center">< /> with &hearts; By<a href="https://github.com/pranjay-poddar"> Pranjay Poddar </a>&copy;</h2>
+ <h3 align="center"> MIT License </h3>
+ <br>
 <h3 align="center">Connect Project Admin </h3>
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/pranjay-poddar/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
