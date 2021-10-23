@@ -1,8 +1,11 @@
 <h1 align="center">Data-Structures-And-Algorithms</h1>
 <div align="center">
 <br>
-Important data structure and algorithms codes and concepts repository. 
-<br><br>
+	<h2 align="center"> Important data structure and algorithms codes and concepts repository.</h2>
+	<p text-align="center">For More Information log on to
+	<a href="https://pranjay-poddar.github.io/Data-Structures-And-Algorithms/web_page/index.html">Click Here</p>
+	<br>
+	<br>
 	
   ![forthebadge](https://forthebadge.com/images/badges/uses-brains.svg)
   ![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)
@@ -73,6 +76,19 @@ Happy Coding!
 :pushpin: :books: Solution of competitive programming problems and challenges, Project Euler Solutions, Data Structures, Data Structure implementations, Algorithms and Interview Questions.
 <br>
 
+## Index
++ [Data Structures and Algorithms](./Content.md#Data-Structures-and-Algorithms)
+    + [Ad-hoc Problems](./Content.md#Ad-hoc-Problems)
+    + [Algorithms](./Content.md#Algorithms)
+    + [Competitions-Challenges](./Content.md#Competitions-Challenges)
+    + [Compiler Design](./Content.md#Compiler-Design)
+    + [Data Structures](./Content.md#Data-Structures)
+    + [Fast IO](./Content.md#Fast-IO)
+    + [Interview Preparation](./Content.md#Interview-Preparation)
+    + [Patterns](./Content.md#Patterns)
+    + [Project Euler](./Content.md#Project-Euler)
+------------------------------------------------------------------------------
+<br>
 ## Contributors
 
 <a href="https://github.com/pranjay-poddar/Data-Structures-And-Algorithms/graphs/contributors">
