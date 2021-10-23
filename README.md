@@ -1,16 +1,16 @@
-<h1>Data-Structures-And-Algorithms</h1>
-
+<h1 align="center">Data-Structures-And-Algorithms</h1>
+<div align="center">
 <br>
 Important data structure and algorithms codes and concepts repository. 
 <br><br>
-<p text-align="center">
+	
   ![forthebadge](https://forthebadge.com/images/badges/uses-brains.svg)
   ![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)
   <br>
   ![GitHub repo size](https://img.shields.io/github/repo-size/pranjay-poddar/Data-Structures-And-Algorithms?color=yellow)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-	</p>
+	
   <p align="center">
     <a href="https://github.com/pranjay-poddar"><img src="https://github.com/pranjay-poddar/Data-Structures-And-Algorithms/blob/master/hacktoberfest'21.png" />
     </a>
@@ -37,7 +37,7 @@ Important data structure and algorithms codes and concepts repository.
         </tr>
     </tbody>        
 </table>
-	
+	</div>
 	
 
 ## Hacktoberfest-Guideline
