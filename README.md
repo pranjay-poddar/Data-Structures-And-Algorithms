@@ -89,7 +89,8 @@ Happy Coding!
     + [Project Euler](./Content.md#Project-Euler)
 ------------------------------------------------------------------------------
 <br>
-## Contributors
+
+<h2 align="center">  Contributors </h2>
 
 <a href="https://github.com/pranjay-poddar/Data-Structures-And-Algorithms/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=pranjay-poddar/Data-Structures-And-Algorithms&&max=611" />
