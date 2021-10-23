@@ -89,12 +89,13 @@ Happy Coding!
     + [Project Euler](./Content.md#Project-Euler)
 ------------------------------------------------------------------------------
 <br>
-
-<h2 align="center">  Contributors </h2>
+<div align="center">
+<h1 align="center">  Contributors </h1>
 
 <a href="https://github.com/pranjay-poddar/Data-Structures-And-Algorithms/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=pranjay-poddar/Data-Structures-And-Algorithms&&max=611" />
 </a>
+</div>
 
 <!-- &max={number} -->
   <br><br>
