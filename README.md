@@ -97,7 +97,7 @@ Happy Coding!
 <h1 align="center">  Contributors </h1>
 
 <a href="https://github.com/pranjay-poddar/Data-Structures-And-Algorithms/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=pranjay-poddar/Data-Structures-And-Algorithms&&max=921" />
+  <img src="https://contrib.rocks/image?repo=pranjay-poddar/Data-Structures-And-Algorithms&&max=617" />
 </a>
 </div>
 
