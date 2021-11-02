@@ -15,7 +15,7 @@
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 	
   <p align="center">
-    <a href="https://github.com/pranjay-poddar"><img src="https://github.com/pranjay-poddar/Data-Structures-And-Algorithms/blob/master/hacktoberfest_logo.svg" width="50px"/>
+    <a href="https://github.com/pranjay-poddar"><img src="https://github.com/pranjay-poddar/Data-Structures-And-Algorithms/blob/master/hacktoberfest_logo.svg" width="200px"/>
     </a>
 	</p>
 	<table align="center">
