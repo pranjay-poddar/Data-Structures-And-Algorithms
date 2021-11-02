@@ -50,6 +50,7 @@ Happy Coding!
   <p align="center">
     <a href="https://github.com/pranjay-poddar"><img src="https://github.com/pranjay-poddar/Data-Structures-And-Algorithms/blob/master/repository_poster.gif" />
     </a>
+	
 ## How to contribute:
 * Drop a :star: on the Github repository (optional)<br/>
 
