@@ -1,7 +1,7 @@
 <h1 align="center">Data-Structures-And-Algorithms</h1>
 
 <div align="center">
-
+<br>
 	<h2 align="center"> Important data structure and algorithms codes and concepts repository.</h2>
 	<p text-align="center">For More Information log on to
 	<a href="https://pranjay-poddar.github.io/Data-Structures-And-Algorithms/web_page/index.html">Click Here</p>
